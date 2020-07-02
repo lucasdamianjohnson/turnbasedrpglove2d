@@ -1,0 +1,27 @@
+Checklist for last fantasy
+
+  #create inventory system
+  #create inter-actable objects
+  #create player stats and classes (types)
+  #load icons sprites for menus
+  #create player stats screen
+  #create settings menu
+  #figure out saving system
+  #create random encounter system
+  #create enemy object list
+  #create items object list
+  #figure out the fighting system
+  #create room transitions, and spawn points
+
+  #create non-playable-charectors
+  #create dialog text boxes
+  #figure out usable items
+  #create stores
+  #play sound effects
+  #play music
+
+
+battle scenes
+needed
+#monster data
+  Create lua table with data about monsters
